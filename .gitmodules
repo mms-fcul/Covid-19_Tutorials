@@ -1,0 +1,3 @@
+[submodule "Covid19-MD_Tutorials"]
+	path = Covid19-MD_Tutorials
+	url = https://github.com/mms-fcul/Covid19-MD_Tutorials.git
